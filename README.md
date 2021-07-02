@@ -19,10 +19,17 @@
 
 -----
 
-- <p>We 👨‍💻 Secured 🥈 Rank in Online Website Designing Competition "DEXINER" Organized By Parul University, Vadodara, Gujarat.Where We Created a Team Portfolio Website.</p>
-- <p>We (Me and Teammate -> Nand Patel) had worked as a team in many competitions as remotely in our Parul University, and outside too like DSC_WOW Hackathon and many more. <p/>
-- <p>So as a Given Problem statement we Created a Team Portfolio Website from Scratch using HTML5, CSS3, Javascript and it's frameworks which are listed in description on the Repository.
-</p>
+# Description
 
-- <p> Our First priority was to give the Website Clean, Modern and Minimalistic view.</p>
+- <p>We 👨‍💻 Secured 🥈 Rank in Online Website Designing Competition "DEXINER" Organized By Parul University, Vadodara, Gujarat.Where We Created a Team Portfolio Website.</p>
+
+- <p>We (Me and Teammate -> Nand Patel) had worked as a team in many competitions as remotely in our Parul University, and outside too like DSC_WOW Hackathon and many more. <p/>
+
+- <p>So as a Given Problem statement we Created a Team Portfolio Website from Scratch using HTML5, CSS3, Javascript and it's frameworks which are listed in description on the Repository.
+  </p>
+
+- <p> Our First priority was to give the Website with Comfortable UI, Simple & Cool & Clean, Modern and Minimalistic view.</p
+  
 - <p>As the Cherry on the cake we decided from the beggining to add some good and interactive HOVER and Animations With SVG IMAGES and ICONS to get the Interest and Attantion of the Judges and Evaluators.</p>
+
+- <p>It's also Mobile Responsive and Smooth Scroll scroll , Landing page transitions and Hovers are our main Highlights.</p>
