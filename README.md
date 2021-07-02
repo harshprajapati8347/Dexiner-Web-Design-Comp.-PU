@@ -4,9 +4,12 @@
 <h3><a href="https://drive.google.com/file/d/1DaGA2CSrZZtqzTgI4L1MPWs7AnZUpWSi/view?usp=sharing" target="_blank"> 📰 Certification</a></h3>
 
 <h3>Organized by: Parul University, Vadodara, Gujarat </h3>
-  <p>
+
+-----------
+
+  <h2>
     <a href="https://dexiner-web-design-competition-team-webexplorer.netlify.app/" target="_blank">Live Demo : Team -> WebExplorer</a>
-  </p>
+  </h2>
   
 ------
 
